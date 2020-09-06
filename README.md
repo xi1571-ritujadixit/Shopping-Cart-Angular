@@ -2,7 +2,7 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.0.0.
 
-## Demo Links
+## Demo Link
 - [https://shopping-cart-9130b.web.app/](https://shopping-cart-9130b.web.app/)
 - [https://vmgxnnvnjyr.angular.stackblitz.io/](https://vmgxnnvnjyr.angular.stackblitz.io/)
 
