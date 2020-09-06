@@ -117,8 +117,16 @@
               "devServerTarget": "shopping-cart-app:serve:production"
             }
           }
+        },
+        "deploy": {
+          "builder": "@angular/fire:deploy",
+          "options": {}
         }
       }
-    }},
-  "defaultProject": "shopping-cart-app"
+    }
+  },
+  "defaultProject": "shopping-cart-app",
+  "cli": {
+    "analytics": false
+  }
 }

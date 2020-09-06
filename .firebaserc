@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "shopping-cart-9130b": {
+      "hosting": {
+        "shopping-cart-app": [
+          "shopping-cart-9130b"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "shopping-cart-9130b"
+  }
+}
